@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="aekasarn">
+	<schema id="com.winscloud.Aekasarn" path="/com/winscloud/Aekasarn/">
+	</schema>
+</schemalist>

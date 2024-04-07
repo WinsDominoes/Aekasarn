@@ -1,0 +1,6 @@
+data/com.winscloud.Aekasarn.desktop.in
+data/com.winscloud.Aekasarn.metainfo.xml.in
+data/com.winscloud.Aekasarn.gschema.xml
+src/main.c
+src/aekasarn-window.c
+src/aekasarn-window.ui
